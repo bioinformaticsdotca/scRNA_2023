@@ -1,0 +1,106 @@
+---
+layout: workshop_main_2day
+permalink: /scRNA_2023
+title: Single Cell RNA-seq
+header1: Workshop Pages for Students
+header2: Single Cell RNA-seq 2023
+image: /site_images/CBW_sc-rna-seq.jpg
+keywords: Single Cell RNA-seq
+description: Single Cell RNA-seq
+instructors: David Wishart
+length: 2 days
+---
+
+# Welcome <a id="welcome"></a> 
+
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/scRNA_2023_schedule)
+
+Meet your faculty [here](https://drive.google.com/file/d/1QgYx9DvtF_hKt0tzdjtwFH6iZ4ava5NM/view?usp=sharing) 
+
+# Pre-Workshop Materials <a id="preworkshop"></a>
+
+Pre-work including programs to install can be found [here](https://forms.gle/HLBxEyoR146MMvgHA).  
+
+***
+
+# Class Photo
+
+coming soon
+
+
+
+# Day 1 <a id="day1"></a>
+
+***
+
+## Welcome
+
+*<font color="#827e9c">Nia Hughes</font>*
+
+## Modules 
+
+*<font color="#827e9c">David Wishart</font>*  
+
+[Module 1: Introduction to Machine Learning](https://drive.google.com/file/d/1QBgI1M7dMQtGdFhYn1bRfNmVRr56VeUZ/view?usp=sharing)
+
+[Module1-PDF](https://drive.google.com/file/d/1gpUY-UaRVGKE65HaEU-o3BKC5ssS1B1W/view?usp=sharing)
+
+ 
+ 
+[Module 2 Lecture & Lab: Decision Trees](https://drive.google.com/file/d/1VDAY4J3lyXbuhqLymgHpdf_WNElfhtCZ/view?usp=sharing)
+
+[Module2-PDF](https://drive.google.com/file/d/156DuYxegNDbLDUwACo9VGhIB5UijDC8-/view?usp=sharing)
+ 
+
+[Module 3 Lecture: Neural Networks](https://drive.google.com/file/d/1RthwdAmMz4mqNIiahRizKSBBAodedxtz/view?usp=sharing)
+
+[Module3-PDF](https://drive.google.com/file/d/1CW_MqyJiCgWUdQfWUcApQSmEEJ9Nz-FO/view?usp=sharing)
+
+[Module 4 Lab: Neural Networks for secondary structure](https://drive.google.com/file/d/1zsA-rN2FuHIYU7gBR3-V7u7aRgId24oj/view?usp=sharing)
+
+[Module 4-PDF](https://drive.google.com/file/d/1RiJ6RbSZWtzH2kTN2-2pD2JL9dEf1JuR/view?usp=sharing)
+
+## Labs
+ 
+### Python Code 
+All the python code used in the workshop can be found [here](https://drive.google.com/drive/folders/19EOqX5evdbJcrBC4bMwo-HnrDKTp4DVw?usp=sharing)
+
+### R Code 
+Alternatively, all the R code used in the workshop can be found [here](https://drive.google.com/drive/folders/1PNE_64k2hD9y0GKegtE16t6oJpqafz5b?usp=sharing)
+
+### Data 
+You can find the data used in each module in each respective folder in both the Python and R code folders, but you can also find all the data used in the workhop [here](https://drive.google.com/drive/folders/1RQFUTHl_nw0m9c2B-VJJ-AkLJZYKtRFb?usp=sharing)
+
+***
+
+# Day 2 <a id="day2"></a>
+
+## Welcome
+
+*<font color="#827e9c"> Francis</font>*
+
+## Modules 
+
+*<font color="#827e9c">David Wishart</font>*  
+
+[Module 5 Lecture: Hidden Markov Models](https://drive.google.com/file/d/147MayF691mjjbdnJVTteRoZyDc0hHRhP/view?usp=sharing)
+
+[Module 5-PDF](https://drive.google.com/file/d/1wBTZc-G8fMNH7MvmCUuZdzWBJ5B1c5HM/view?usp=sharing)
+
+[Module 6 Lab: Gene Finding with NNs and HMMs](https://drive.google.com/file/d/1hCVzQKd_VC55hqvlXwZG1CuuUOyTVqSF/view?usp=sharing)
+
+[Module 6-PDF](https://drive.google.com/file/d/1H7rzHch_wTbT1oFUs-OqLKaqWX6ss__U/view?usp=sharing)
+
+[Module 7 Lecture: Machine Learning with Keras & Scikit-Learn](https://drive.google.com/file/d/1dQBsoYzdAbSUFM_N9jGQoypkd4HS2cXh/view?usp=sharing)
+
+[Module 7-PDF](https://drive.google.com/file/d/1W5XHOnYJJeLByZEtgpXBfGFMSMdBOoKk/view?usp=sharing)
+
+[Module 8 Lab: Machine Learning with Keras & Scikit-Learn](https://drive.google.com/file/d/1qAuRBZ0FDm5MvPoQ4akc_k8QGkeC8YOm/view?usp=sharing)
+
+[Module 8-PDF](https://drive.google.com/file/d/1sMeP5uyHQxmQeeVCQjWlvQpo0uIJqeBJ/view?usp=sharing)
+
+
+***
+# Everything 
+You can find all slides, code and data [here](https://drive.google.com/drive/folders/1YBI_ellYJ7AKl2O1Y1glIqFxALjG2WPh?usp=sharing)
+***
