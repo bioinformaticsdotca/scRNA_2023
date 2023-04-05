@@ -13,6 +13,8 @@ length: 2 days
 
 # Welcome <a id="welcome"></a> 
 
+## This workshop page is under construction. Please note that some links may be out of date.
+
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/scRNA_2023_schedule)
 
 Meet your faculty [here](https://drive.google.com/file/d/1QgYx9DvtF_hKt0tzdjtwFH6iZ4ava5NM/view?usp=sharing) 
