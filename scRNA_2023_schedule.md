@@ -3,20 +3,22 @@ layout: tutorial_page
 permalink: /scRNA_2023_schedule
 title: scRNA
 header1: Workshop Pages for Students
-header2: Single Cell RNA-seq 2023 Schedule
+header2: Single Cell RNA-seq Analysis 2023 Schedule
 image: /site_images/CBW_sc-rna-seq.jpg
 home: https://bioinformaticsdotca.github.io/scRNA_2023
 ---
 
-| | **Day 1** | | **Day 2** |  
-| :---: | :---: | :---: | :---: |    
-| | **Tuesday, May 25** | | **Wednesday, May 26** |  
-|	10:00	|	Welcome (Nia Hughes)	|	10:00	|	<font color="purple">Day 1 recap and technology check</font>	|
-|	10:45	|	<font color="purple">Module 1: Introduction to Machine Learning (Lecture)</font>|	10:15	|	<font color="purple">Module 5: Hidden Markov Models (Lecture and Lab)</font>|
-|	12:15	|	<font color="green">Break</font>|	11:30	|	<font color="green">Break</font>	|
-|	12:45|	<font color="purple">Module 2: Decision Trees (Lecture and Lab) </font>|	12:00	|	<font color="purple">Module 6: Gene Finding with NNs and HMMs (Lecture and Lab) </font>|
-|	14:15	|	<font color="green">Break</font>|	14:00	|	<font color="green">Break</font>|
-|	15:00	|	<font color="purple">Module 3: Neural Networks (Lecture and Lab)</font> |	15:00	|	<font color="purple">Module 7: Machine Learning with Keras and Scikit-learn (Lecture and Lab)</font>|
-|	16:30	|	<font color="green">Break</font>|	16:15	|	<font color="green">Break</font>	|
-|	17:00	|	<font color="purple">Module 4: Neral Networks for secondary structure (Lecture and Homework)</font>|	16:45	|	<font color="purple">Module 8: Machine Learning with Keras and Scikit-learn (Lecture and Lab)</font>|
-| 18:00 |	| 17:45 |	Survey & Closing Remarks |  
+| Time (Eastern) |                                          Thursday, July 20                                           | Time (Eastern) |                                   Friday, July 21                                    |
+| :------------: | :--------------------------------------------------------------------------------------------------: | :------------: | :----------------------------------------------------------------------------------: |
+|      8:30      |                            <font color="green">Arrivals & Check-in</font>                            |      8:30      |                         <font color="green">Arrivals</font>                          |
+|      9:00      |                           <font color="purple">Welcome (Nia Hughes)</font>                           |      9:00      | <font color="purple">Module 4: Normalization & Confounders (Tallulah Andrews)</font> |
+|      9:15      |       <font color="purple">Module 1: Introduction to Single Cell RNA-seq  (Trevor Pugh)</font>       |      9:45      |                       <font color="purple">Module 4 Lab</font>                       |
+|     10:00      |                            <font color="purple">AWS Login & Setup</font>                             |     10:45      |                       <font color="green">Break (15min)</font>                       |
+|     10:30      |                               <font color="green">Break (15min)</font>                               |     11:00      |     <font color="purple">Module 5: Biological Analyses (Tallulah Andrews)</font>     |
+|     10:45      |      <font color="purple">Module 2: Read Quantification Lecture + Lab (Tallulah Andrews)</font>      |     12:00      |                        <font color="green">Lunch (1h)</font>                         |
+|     11:45      |                                <font color="green">Lunch (1h)</font>                                 |     13:00      |                       <font color="purple">Module 5 Lab</font>                       |
+|     12:45      |                           <font color="purple">Module 2 (continued)</font>                           |     14:45      |                       <font color="green">Break (15min)</font>                       |
+|     14:30      | <font color="purple">Module 3: scRNAseq Data Structures & Quality Control  (Tallulah Andrews)</font> |     15:00      |       <font color="purple">Module 6: Data Set integration  (Gary Bader)</font>       |
+|     15:15      |                               <font color="green">Break (15min)</font>                               |     16:00      |                       <font color="purple">Module 6 Lab</font>                       |
+|     15:30      |                              <font color="purple">Module 3: Lab</font>                               |     17:45      |                 <font color="purple">Survey & Closing Remarks</font>                 |
+|     17:30      |                               <font color="green">End of Day 1</font>                                |     18:00      |                         <font color="green">Finished</font>                          |
